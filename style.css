@@ -12,4 +12,7 @@ h1 {
 }
 
 h2 {
+  margin: 0;
+  text-align: left; /* Align text to the left */
+  max-width: 80%; /* Set a maximum width for the headers */
 }
