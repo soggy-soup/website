@@ -17,14 +17,19 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 175%;
+}
+
 .projectheaders {
   text-align: center;
-
 }
 
 .body2 {
   display: inline-block;
-  text-align: left;
+  text-align: center;
   line-height: 200%;
 }
 
