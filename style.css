@@ -56,3 +56,9 @@ a:hover, a:visited, a:link, a:active {
 
   transform: rotate(-90deg);
 }
+
+.projectimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
