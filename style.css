@@ -1,7 +1,10 @@
 * {
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
   box-sizing: border-box;
+  max-width: 50em;
+  font-family: "Helvetica", sans-serif;
+  text-align: center;
 } 
 
 .titles {
@@ -13,8 +16,7 @@
 }
 
 h1 {
-  margin: 0;
-  text-align: center;
+  
 }
 
 .projects {
@@ -24,36 +26,33 @@ h1 {
 }
 
 .projectheaders {
-  text-align: center;
+  
 }
 
 .body2 {
   display: inline-block;
-  text-align: center;
+  
   line-height: 200%;
 }
 
 a:hover, a:visited, a:link, a:active {
-    text-decoration: none;
-    color: #000000;
+  text-decoration: none;
+  color: #000000;
 }
 
 .date {
-  margin: 0;
-  text-align: center;
+  
   font-weight: normal;
 }
 
 .projecttext {
-  margin: 0;
-  text-align: center;
+  
 }
 
 .projectimageRot {
-  border: 2px solid black;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+
   transform: rotate(-90deg);
 }
