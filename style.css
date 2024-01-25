@@ -35,14 +35,18 @@ a.link:hover, a.link:visited, a.link:link, a.link:active {
   color: #000000;
 }
 
+
 .date {
   font-weight: normal;
+  font-size: 16px;
+  color: #555;
 }
 
 .projecttext {
   text-align: left;
   margin-top: 14px;
   margin-bottom: 14px;
+  color: #555;
 }
 
 .projectimg {
