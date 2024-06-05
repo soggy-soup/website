@@ -5,7 +5,7 @@
   /*max-width: 600px;*/
   font-family: "Helvetica", sans-serif;
   text-align: center;
-  overflow: hidden;
+  /*overflow: hidden;*/
 } 
 body, .projecttext, .projectimg, iframe {
   max-width: 600px;
