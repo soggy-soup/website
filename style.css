@@ -2,17 +2,20 @@
   margin: 0 auto;
   padding: 0;
   box-sizing: border-box;
-  max-width: 600px;
+  /*max-width: 600px;*/
   font-family: "Helvetica", sans-serif;
   text-align: center;
+  overflow: visible;
 } 
-
+body, .projecttext, .projectimg, iframe {
+  max-width: 600px;
+}
 .titles {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  /*height: 100vh;*/
 }
 
 .projecttitle {
