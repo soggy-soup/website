@@ -24,21 +24,21 @@ body, .projecttext, .projectimg, iframe {
 
 .projects {
   font-weight: normal;
-  font-size: 25px;
+  font-size: 20px;
   line-height: 175%;
 }
 
 .body2 {
   display: inline-block;
   line-height: 200%;
-}
+} 
 
 a.link:hover, a.link:visited, a.link:link, a.link:active {
   text-decoration: none;
   color: #000000;
 }
 
-
+ 
 .date {
   font-weight: normal;
   font-size: 16px;
@@ -61,4 +61,8 @@ a.link:hover, a.link:visited, a.link:link, a.link:active {
 video {
   height: auto;
   width: 100%;
+}
+
+.pt {
+  padding-top: 15px;
 }
